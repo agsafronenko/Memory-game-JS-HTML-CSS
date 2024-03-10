@@ -1,3 +1,6 @@
+You can view the live version of this project hosted on GitHub Pages [here](https://agsafronenko.github.io/Memory-game/).
+
+
 # Memory-game
 * Classic memory game *
 
