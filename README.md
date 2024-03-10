@@ -1,8 +1,12 @@
+
+## GitHub Pages
+
 You can view the live version of this project hosted on GitHub Pages [here](https://agsafronenko.github.io/Memory-game/).
 
 
 # Memory-game
-* Classic memory game *
+
+* Classic memory game
 
 A player is limited to:
 - countdown timer;
